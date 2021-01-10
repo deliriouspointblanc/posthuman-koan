@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+html, body {
+  background-color: black;
+  margin: 0rem;
+  padding: 0rem;
+}
+canvas {
+/*
+  margin: 0.2rem;
+  padding: 0.2rem;
+*/
+}
