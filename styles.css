@@ -1,4 +1,11 @@
+/*
+@font-face {
+  font-family: Cantarell-BoldItalic;
+  src: url("/assets/Cantarell-BoldItalic.ttf");
+}
+*/
 h1 {
+  font-family: "Audiowide", "sans-serif";
   color: white;
   text-align: center;
 }
@@ -6,10 +13,4 @@ html, body {
   background-color: black;
   margin: 0rem;
   padding: 0rem;
-}
-canvas {
-/*
-  margin: 0.2rem;
-  padding: 0.2rem;
-*/
 }
